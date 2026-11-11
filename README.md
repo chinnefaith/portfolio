@@ -1,16 +1,19 @@
-# Chinne Faith Portfolio ✿
+# Chinne Faith Portfolio
 
-Cute, personal portfolio website for Chinne Faith De Los Santos.
+Personal portfolio website for Chinne Faith De Los Santos.
 
-## Included
-- Personal introduction and About Me
-- ShelScan mobile app project
-- CampBlazer web project with live demo
-- People skills
-- Resume and education
-- **Certificate image displayed directly on the page**
-- **Hobbies: Guitar, Chess, Singing, and Watching K-Drama**
-- Contact section
+## Sections
+- About
+- Technical skills
+- Projects: ShellScan and CampBlazer
+- Certificates and training
+- Education and technical focus
+- Contact
+
+## Built with
+- HTML
+- CSS
+- JavaScript
 
 ## Run locally
 Open `index.html` in a browser, or use VS Code Live Server.
@@ -18,6 +21,5 @@ Open `index.html` in a browser, or use VS Code Live Server.
 ## Files
 - `index.html` — page content
 - `styles.css` — design and responsive layout
-- `script.js` — mobile menu behavior
-- `assets/` — photos, project screenshots, and certificate
-- `resume.pdf` — resume file
+- `script.js` — mobile navigation behavior
+- `assets/` — profile photo, project images, and certificates
